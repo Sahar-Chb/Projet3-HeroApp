@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins&family=Roboto+Slab&family=Sofia+Sans:ital,wght@0,200;1,400&family=Ubuntu&display=swap');
+
+body{
+  background-color: #3FB8D2;
+}
+
+.title{
+  text-align: center;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 60px;
+  margin-top: 60px;
+}
+
+.card{
+  background-color: white;
+  width: 627px;
+  height: 253px;
+  border-radius: 24px;
+  margin: auto;
+  margin-top: 85px;
+  margin-bottom: 85px;
+
+}
+
+.image{
+  width: 310px;
+  height: 227px;
+  margin: 15px;
+ 
+}
+
+.box{
+  display: flex;
+  flex-direction: row;
+  flex:auto;
+  align-items: center;
+}
+
+.card-2{
+  margin-left: 5px;
+}
+.card-2>h1{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 32px;  
+  
+}
+
+.card-2>h2{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 28px;
+  font-weight: 200;
+
+}
+
+.card-2>p{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 25px;
+
+}
